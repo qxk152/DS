@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmp/kmp.iml" filepath="$PROJECT_DIR$/kmp/kmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentTree/segmentTree.iml" filepath="$PROJECT_DIR$/segmentTree/segmentTree.iml" />
+    </modules>
+  </component>
+</project>
