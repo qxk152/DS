@@ -1,16 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10674cc2-00ff-4e54-9142-64bb61a1625c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="10674cc2-00ff-4e54-9142-64bb61a1625c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackTracing/BackTracing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackTracing/src/com/qxk/leetcode/sodoku/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/BFSImpl/GraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/BipartitionDectection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/CycleDectecion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/SingleSourcePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/DFSImpl/GraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/ShortestPath/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/ShortestPath/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/WeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/wg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/wgSP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnionFind/src/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnionFind/src/UF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/CycleDectecion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1221">
+              <caret line="40" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/BipartitionDectection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+                <element signature="e#1288#1289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/src/BFSImpl/GraphBFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1551">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1221">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph/src/DFSImpl/GraphDFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1419">
+              <caret line="50" column="57" selection-start-line="47" selection-start-column="7" selection-end-line="50" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,6 +151,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,13 +174,33 @@
         <option value="$PROJECT_DIR$/segmentTree/src/Merger.java" />
         <option value="$PROJECT_DIR$/segmentTree/src/SegmentTree.java" />
         <option value="$PROJECT_DIR$/segmentTree/src/Main.java" />
-        <option value="$PROJECT_DIR$/UnionFind/src/UF.java" />
-        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" />
         <option value="$PROJECT_DIR$/Trie/src/Trie.java" />
         <option value="$PROJECT_DIR$/Trie/src/Solution.java" />
         <option value="$PROJECT_DIR$/kmp/src/LSP.java" />
         <option value="$PROJECT_DIR$/kmp/src/Lps.java" />
         <option value="$PROJECT_DIR$/kmp/src/SubstringMatch.java" />
+        <option value="$PROJECT_DIR$/BackTracing/src/com/qxk/leetcode/sodoku/Solution.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UF.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind2.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind4.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind5.java" />
+        <option value="$PROJECT_DIR$/UnionFind/src/UnionFind6.java" />
+        <option value="$PROJECT_DIR$/Graph/g.txt" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSImpl/Graph.java" />
+        <option value="$PROJECT_DIR$/Graph/src/AdjList.java" />
+        <option value="$PROJECT_DIR$/Graph/src/AdjMatrix.java" />
+        <option value="$PROJECT_DIR$/Graph/src/AdjSet.java" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSImpl/GraphDFS.java" />
+        <option value="$PROJECT_DIR$/Graph/src/GraphBuild/AdjSet.java" />
+        <option value="$PROJECT_DIR$/Graph/src/GraphBuild/AdjMatrix.java" />
+        <option value="$PROJECT_DIR$/Graph/src/GraphBuild/AdjList.java" />
+        <option value="$PROJECT_DIR$/Graph/src/GraphBuild/Graph.java" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSApplication/SingleSourcePath.java" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSApplication/Path.java" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSApplication/CycleDectecion.java" />
+        <option value="$PROJECT_DIR$/Graph/src/DFSApplication/BipartitionDectection.java" />
+        <option value="$PROJECT_DIR$/Graph/src/BFSImpl/GraphBFS.java" />
       </list>
     </option>
   </component>
@@ -53,89 +208,166 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\develop\maven\repo" />
-        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.5.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../develop/maven/apache-maven-3.5.3" />
         <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1000" />
     <option name="width" value="690" />
     <option name="height" value="1010" />
   </component>
+  <component name="ProjectId" id="2WeXWcJDK5ckfB6xRevJsgAs3SA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DFSImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnionFind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnionFind" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1684842613805" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="WeightedGraphBuild" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ideaProject\DS\PriorityQueue\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ShortestPath" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeapSort" />
-      <module name="Heap" />
+  <component name="RunManager" selected="Application.Dijkstra">
+    <configuration name="BipartitionDectection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSApplication.BipartitionDectection" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="segmentTree" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestPath.Dijkstra" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShortestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Heap" />
+    <configuration name="GraphBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFSImpl.GraphBFS" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFSImpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Trie" />
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeightedGraphBuild.Kruskal" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeightedGraphBuild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WeightedGraphBuild.WeightedGraph" />
+      <module name="Graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WeightedGraphBuild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.Kruskal" />
+        <item itemvalue="Application.WeightedGraph" />
+        <item itemvalue="Application.GraphBFS" />
+        <item itemvalue="Application.BipartitionDectection" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,17 +394,36 @@
       <workItem from="1673230552574" duration="2102000" />
       <workItem from="1673321839621" duration="62000" />
       <workItem from="1684803616835" duration="4340000" />
-      <workItem from="1684842071993" duration="680000" />
+      <workItem from="1684842071993" duration="1876000" />
+      <workItem from="1688350903988" duration="1432000" />
+      <workItem from="1688375150888" duration="32000" />
+      <workItem from="1693404292890" duration="4636000" />
+      <workItem from="1693652372463" duration="22000" />
+      <workItem from="1693974478621" duration="174000" />
+      <workItem from="1694000932775" duration="25000" />
+      <workItem from="1694266413650" duration="6653000" />
+      <workItem from="1694274406766" duration="407000" />
+      <workItem from="1694401616190" duration="1540000" />
+      <workItem from="1694408566461" duration="2102000" />
+      <workItem from="1694410748430" duration="2427000" />
+      <workItem from="1694489812850" duration="630000" />
+      <workItem from="1694521566497" duration="8000" />
+      <workItem from="1697094052397" duration="7264000" />
+      <workItem from="1697185757800" duration="1082000" />
+      <workItem from="1697205762866" duration="5267000" />
+      <workItem from="1697245769347" duration="1584000" />
+      <workItem from="1697258932873" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42713000" />
+    <option name="totallyTimeSpent" value="63997000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="926" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1118" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30630028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16417165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -180,9 +431,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32955974" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286004" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39553753" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -206,7 +457,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Heap/src/MergeSort.java">
@@ -340,16 +591,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/download/1901731-李佳佺-高级Java语言程序设计作业/作业2：GUI绘图/BtnActionListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1897#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../download/1901731-李佳佺-高级Java语言程序设计作业/作业2：GUI绘图/BtnActionListener.class" />
     <entry file="file://$PROJECT_DIR$/PriorityQueue/src/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -369,20 +611,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trie/src/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/kmp/src/SubstringMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kmp/src/Lps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="28" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trie/src/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -394,22 +622,189 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackTracing/src/com/qxk/leetcode/sodoku/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UnionFind/src/UF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        <state relative-caret-position="165">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kmp/src/SubstringMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackTracing/BackTracing.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kmp/src/Lps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFS.java" />
+    <entry file="file://$PROJECT_DIR$/Graph/src/GraphBuild/AdjList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/GraphBuild/AdjMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/g.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/GraphBuild/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/GraphBuild/AdjSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/SingleSourcePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="44" column="5" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/CycleDectecion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1221">
+          <caret line="40" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFSApplication/BipartitionDectection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/BFSImpl/GraphBFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1551">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="924">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1221">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/DFSImpl/GraphDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1419">
+          <caret line="50" column="57" selection-start-line="47" selection-start-column="7" selection-end-line="50" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnionFind/src/UnionFind2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
           </folding>
         </state>
       </provider>
