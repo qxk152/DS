@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10674cc2-00ff-4e54-9142-64bb61a1625c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackTracing/BackTracing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackTracing/src/com/qxk/leetcode/sodoku/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/BFSImpl/GraphBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/BipartitionDectection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/CycleDectecion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFSApplication/SingleSourcePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFSImpl/GraphDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/AdjSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/GraphBuild/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/ShortestPath/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/ShortestPath/WeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/WeightedEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/WeightedGraphBuild/WeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/wg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/wgSP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SkipList/SkipList.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnionFind/src/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnionFind/src/UF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" beforeDir="false" afterPath="$PROJECT_DIR$/UnionFind/src/UnionFind1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,8 +243,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ideaProject/DS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -413,6 +388,15 @@
       <workItem from="1697205762866" duration="5267000" />
       <workItem from="1697245769347" duration="1584000" />
       <workItem from="1697258932873" duration="1531000" />
+      <workItem from="1697449339828" duration="605000" />
+      <workItem from="1697462951452" duration="7000" />
+      <workItem from="1697853667336" duration="146000" />
+      <workItem from="1697854322002" duration="13000" />
+      <workItem from="1697854783460" duration="26000" />
+      <workItem from="1698543004974" duration="12000" />
+      <workItem from="1699252502522" duration="392000" />
+      <workItem from="1699275817765" duration="6404000" />
+      <workItem from="1699341505951" duration="692000" />
     </task>
     <servers />
   </component>
