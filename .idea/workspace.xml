@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10674cc2-00ff-4e54-9142-64bb61a1625c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SkipList/SkipList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentTree/src/Dynamic/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentTree/src/Dynamic/RangeModule.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/segmentTree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/segmentTree/SegmentTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentTree/src/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/segmentTree/src/SegmentTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,20 +268,7 @@
       <recent name="ShortestPath" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dijkstra">
-    <configuration name="BipartitionDectection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSApplication.BipartitionDectection" />
-      <module name="Graph" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFSApplication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumArray">
     <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShortestPath.Dijkstra" />
       <module name="Graph" />
@@ -319,6 +308,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic.NumArray" />
+      <module name="segmentTree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeightedGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeightedGraphBuild.WeightedGraph" />
       <module name="Graph" />
@@ -334,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumArray" />
         <item itemvalue="Application.Dijkstra" />
         <item itemvalue="Application.Kruskal" />
         <item itemvalue="Application.WeightedGraph" />
         <item itemvalue="Application.GraphBFS" />
-        <item itemvalue="Application.BipartitionDectection" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +398,12 @@
       <workItem from="1698543004974" duration="12000" />
       <workItem from="1699252502522" duration="392000" />
       <workItem from="1699275817765" duration="6404000" />
-      <workItem from="1699341505951" duration="692000" />
+      <workItem from="1699341505951" duration="793000" />
+      <workItem from="1699359993715" duration="5000" />
+      <workItem from="1699791441276" duration="6801000" />
+      <workItem from="1699839142391" duration="4422000" />
+      <workItem from="1700143183343" duration="7000" />
+      <workItem from="1701872828703" duration="616000" />
     </task>
     <servers />
   </component>
@@ -442,6 +449,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/segmentTree/src/Dynamic/NumArray.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/segmentTree/src/Dynamic/NumArray.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/segmentTree/src/Dynamic/NumArray.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Heap/src/MergeSort.java">

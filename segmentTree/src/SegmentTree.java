@@ -6,7 +6,7 @@
  * @date 2022/09/06 11:52
  */
 public class SegmentTree <E>{
-    //tree来存某个区间的节点的值
+    //tree来存某个区间的节点的值 做区间为l..mid 右区间为mid +1 .. r
     private E []tree;
     private E []data;
     private Merger<E> merge; //传入合并元素的规则
@@ -64,6 +64,32 @@ public class SegmentTree <E>{
         E leftRes = query(leftIndex,l,mid,queryL,mid);
         E rightRes = query(rightIndex,mid+1,r,mid+1,queryR);
         return merge.merge(leftRes,rightRes);
+    }
+    //将index的值更新为e
+    public void set(int index,E e){
+        if(index<0 || index>=data.length){
+            throw new IllegalArgumentException("index is illegal");
+        }
+        set(0,0, data.length-1,e,index);
+
+    }
+    //将Segtree（值为区域[l,r]）中index的值进行更新
+    private void set(int treeIndex,int l,int r,E e,int index){
+        if(l == r){
+            //找到了更新的目标节点值
+            tree[treeIndex] = e;
+            return;
+        }
+        int mid = l +(r - l)/2;
+        int rChild = rightChild(treeIndex);
+        int lChild = leftChild(treeIndex);
+        if(index >= mid + 1){
+            //要更新的节点在右子树
+            set(rChild,mid+1,r,e,index);
+        }else
+            set(lChild,l,mid,e,index);
+        //还得更新所有的父节点的值
+        tree[treeIndex] = merge.merge(tree[lChild],tree[lChild]);
     }
 
     public int size(){
